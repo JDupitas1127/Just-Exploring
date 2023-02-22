@@ -1,7 +1,7 @@
 ---
 title: "just exploring"
-author: "bessie dizon"
-date: "2023-02-03"
+author: "jhoy dupitas"
+date: "2023-02-22"
 output: html_document
 ---
 
@@ -28,17 +28,17 @@ $A=\pi*r^{2}$
 $$E=mc^{2}$$
 
 >Enjoy your life to the fullest
-# Bessie
+# jhoy
 
-## Bessie
+## jhoy
 
-### Bessie
+### jhoy
 
-#### Bessie
+#### jhoy
 
-##### Bessie
+##### jhoy
 
-###### bessie
+###### jhoy
 
 \textbf{Tex ignored in HTML} <em>HTML ignored in pdfs</em>
 
